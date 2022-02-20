@@ -1,3 +1,8 @@
+The website is hosted at: https://twitter-clone-bd877.web.app/ 
+
+(may not be available later, as might need to free space in firebase to host new webapps/android projects).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
